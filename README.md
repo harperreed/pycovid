@@ -65,7 +65,7 @@ Parameters:
 ```py
 from pycovid import pycovid
 
-pycovid.plot_provinces(contries=['Canada'], 
+pycovid.plot_provinces(countries=['Canada'], 
 			provinces=['Alberta', 'Ontario', 'Quebec', 
 				'Manitoba', 'British Columbia', 
 				'New Brunswick', 'Saskatchewan'], 
